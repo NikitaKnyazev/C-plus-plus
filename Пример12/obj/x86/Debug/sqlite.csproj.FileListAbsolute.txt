@@ -1,0 +1,93 @@
+D:\VS_2010\sqlite\bin\Debug\sqlite.exe
+D:\VS_2010\sqlite\bin\Debug\sqlite.pdb
+D:\VS_2010\sqlite\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VS_2010\sqlite\obj\x86\Debug\sqlite.Form1.resources
+D:\VS_2010\sqlite\obj\x86\Debug\sqlite.Properties.Resources.resources
+D:\VS_2010\sqlite\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VS_2010\sqlite\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VS_2010\sqlite\obj\x86\Debug\sqlite.exe
+D:\VS_2010\sqlite\obj\x86\Debug\sqlite.pdb
+D:\VS_2010\sqlite\bin\Debug\SQLite.NET.dll
+C:\Users\estri\Documents\Visual Studio 2010\Projects\sqlite\obj\x86\Debug\sqlite.exe
+C:\Users\estri\Documents\Visual Studio 2010\Projects\sqlite\obj\x86\Debug\sqlite.pdb
+C:\Users\estri\Documents\Visual Studio 2010\Projects\sqlite\bin\Debug\sqlite.exe
+C:\Users\estri\Documents\Visual Studio 2010\Projects\sqlite\bin\Debug\sqlite.pdb
+C:\Users\estri\Documents\Visual Studio 2010\Projects\sqlite\obj\x86\Debug\sqlite.csprojResolveAssemblyReference.cache
+C:\Users\estri\Documents\Visual Studio 2010\Projects\sqlite\obj\x86\Debug\sqlite.Properties.Resources.resources
+C:\Users\estri\Documents\Visual Studio 2010\Projects\sqlite\obj\x86\Debug\sqlite.csproj.GenerateResource.Cache
+C:\Users\estri\Documents\Visual Studio 2010\Projects\sqlite\obj\x86\Debug\sqlite.mainForm.resources
+F:\sqlite\obj\x86\Debug\sqlite.exe
+F:\sqlite\obj\x86\Debug\sqlite.pdb
+F:\sqlite\bin\Debug\sqlite.exe
+F:\sqlite\bin\Debug\sqlite.pdb
+F:\sqlite\obj\x86\Debug\sqlite.csprojResolveAssemblyReference.cache
+F:\sqlite\obj\x86\Debug\sqlite.mainForm.resources
+F:\sqlite\obj\x86\Debug\sqlite.Properties.Resources.resources
+F:\sqlite\obj\x86\Debug\sqlite.csproj.GenerateResource.Cache
+F:\sqlite\bin\Debug\SQLite.NET.dll
+C:\sqlite4\obj\x86\Debug\sqlite.exe
+C:\sqlite4\obj\x86\Debug\sqlite.pdb
+C:\sqlite4\bin\Debug\sqlite.exe
+C:\sqlite4\bin\Debug\sqlite.pdb
+C:\sqlite4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\sqlite4\obj\x86\Debug\sqlite.mainForm.resources
+C:\sqlite4\obj\x86\Debug\sqlite.Properties.Resources.resources
+C:\sqlite4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\sqlite4\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sqlite4\obj\x86\Debug\sqlite.exe
+D:\sqlite4\obj\x86\Debug\sqlite.pdb
+D:\sqlite4\bin\Debug\sqlite.exe
+D:\sqlite4\bin\Debug\sqlite.pdb
+D:\sqlite4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\sqlite4\obj\x86\Debug\sqlite.mainForm.resources
+D:\sqlite4\obj\x86\Debug\sqlite.Properties.Resources.resources
+D:\sqlite4\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\sqlite4\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\sqlite5\obj\x86\Debug\sqlite.exe
+c:\sqlite5\obj\x86\Debug\sqlite.pdb
+c:\sqlite5\bin\Debug\sqlite.exe
+c:\sqlite5\bin\Debug\sqlite.pdb
+c:\sqlite5\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\sqlite5\obj\x86\Debug\sqlite.mainForm.resources
+c:\sqlite5\obj\x86\Debug\sqlite.Properties.Resources.resources
+c:\sqlite5\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\sqlite5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Рабочие Проекты\Для пар нак.СЗВН\SQLite exmp\sqlite6\obj\x86\Debug\sqlite.exe
+C:\Рабочие Проекты\Для пар нак.СЗВН\SQLite exmp\sqlite6\obj\x86\Debug\sqlite.pdb
+C:\Рабочие Проекты\Для пар нак.СЗВН\SQLite exmp\sqlite6\bin\Debug\sqlite.exe
+C:\Рабочие Проекты\Для пар нак.СЗВН\SQLite exmp\sqlite6\bin\Debug\sqlite.pdb
+C:\Рабочие Проекты\Для пар нак.СЗВН\SQLite exmp\sqlite6\obj\x86\Debug\sqlite.mainForm.resources
+C:\Рабочие Проекты\Для пар нак.СЗВН\SQLite exmp\sqlite6\obj\x86\Debug\sqlite.Properties.Resources.resources
+C:\Рабочие Проекты\Для пар нак.СЗВН\SQLite exmp\sqlite6\obj\x86\Debug\sqlite.csproj.GenerateResource.Cache
+C:\Рабочие Проекты\первая лекц\Пример1\obj\x86\Debug\sqlite.exe
+C:\Рабочие Проекты\первая лекц\Пример1\obj\x86\Debug\sqlite.pdb
+C:\Рабочие Проекты\первая лекц\Пример1\bin\Debug\sqlite.exe
+C:\Рабочие Проекты\первая лекц\Пример1\bin\Debug\sqlite.pdb
+C:\Рабочие Проекты\первая лекц\Пример1\obj\x86\Debug\sqlite.csprojResolveAssemblyReference.cache
+C:\Рабочие Проекты\первая лекц\Пример1\obj\x86\Debug\sqlite.mainForm.resources
+C:\Рабочие Проекты\первая лекц\Пример1\obj\x86\Debug\sqlite.Properties.Resources.resources
+C:\Рабочие Проекты\первая лекц\Пример1\obj\x86\Debug\sqlite.csproj.GenerateResource.Cache
+C:\Рабочие Проекты\первая лекц\Пример11\obj\x86\Debug\sqlite.exe
+C:\Рабочие Проекты\первая лекц\Пример11\obj\x86\Debug\sqlite.pdb
+C:\Рабочие Проекты\первая лекц\Пример11\bin\Debug\sqlite.exe
+C:\Рабочие Проекты\первая лекц\Пример11\bin\Debug\sqlite.pdb
+C:\Рабочие Проекты\первая лекц\Пример11\obj\x86\Debug\sqlite.csprojResolveAssemblyReference.cache
+C:\Рабочие Проекты\первая лекц\Пример11\obj\x86\Debug\sqlite.mainForm.resources
+C:\Рабочие Проекты\первая лекц\Пример11\obj\x86\Debug\sqlite.Properties.Resources.resources
+C:\Рабочие Проекты\первая лекц\Пример11\obj\x86\Debug\sqlite.csproj.GenerateResource.Cache
+C:\Рабочие Проекты\первая лекц\Пример12\obj\x86\Debug\sqlite.exe
+C:\Рабочие Проекты\первая лекц\Пример12\obj\x86\Debug\sqlite.pdb
+C:\Рабочие Проекты\первая лекц\Пример12\bin\Debug\sqlite.exe
+C:\Рабочие Проекты\первая лекц\Пример12\bin\Debug\sqlite.pdb
+C:\Рабочие Проекты\первая лекц\Пример12\obj\x86\Debug\sqlite.csprojResolveAssemblyReference.cache
+C:\Рабочие Проекты\первая лекц\Пример12\obj\x86\Debug\sqlite.mainForm.resources
+C:\Рабочие Проекты\первая лекц\Пример12\obj\x86\Debug\sqlite.Properties.Resources.resources
+C:\Рабочие Проекты\первая лекц\Пример12\obj\x86\Debug\sqlite.csproj.GenerateResource.Cache
+C:\Кафедра\Курсы и Преподавание\Курс БД в НН\Пример12\obj\x86\Debug\sqlite.exe
+C:\Кафедра\Курсы и Преподавание\Курс БД в НН\Пример12\obj\x86\Debug\sqlite.pdb
+C:\Кафедра\Курсы и Преподавание\Курс БД в НН\Пример12\bin\Debug\sqlite.exe
+C:\Кафедра\Курсы и Преподавание\Курс БД в НН\Пример12\obj\x86\Debug\sqlite.csprojResolveAssemblyReference.cache
+C:\Кафедра\Курсы и Преподавание\Курс БД в НН\Пример12\obj\x86\Debug\sqlite.mainForm.resources
+C:\Кафедра\Курсы и Преподавание\Курс БД в НН\Пример12\obj\x86\Debug\sqlite.Properties.Resources.resources
+C:\Кафедра\Курсы и Преподавание\Курс БД в НН\Пример12\obj\x86\Debug\sqlite.csproj.GenerateResource.Cache
+C:\Кафедра\Курсы и Преподавание\Курс БД в НН\Пример12\bin\Debug\sqlite.pdb
